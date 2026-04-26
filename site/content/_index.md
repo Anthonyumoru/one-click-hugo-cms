@@ -1,7 +1,7 @@
 ---
 title: Anthony AI Blog
 subtitle: Tech, AI, and Ideas That Make Life Easier
-image: https://postimg.cc/PPxVM9GZ
+image: img/fb_img_1745081482881-1_1-3000x3000.jpg
 blurb:
   heading: Welcome
   text: I build with AI and share what actually works. No hype. Just tools, tips,
