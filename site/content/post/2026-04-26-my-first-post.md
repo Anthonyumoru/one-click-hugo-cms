@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-date: 2026-04-26
+title: "My First Post"                       
+
 description: "Welcome to Anthony AI Blog"
 ---
 
