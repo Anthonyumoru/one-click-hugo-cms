@@ -1,6 +1,20 @@
 ---
 title: Anthony AI Blog
-subtitle: Tech, AI, and Ideas
+subtitle: Tech, AI, and Ideas That Make Life Easier
+image: https://postimg.cc/PPxVM9GZ
+blurb:
+  heading: Welcome
+  text: I build with AI and share what actually works. No hype. Just tools, tips,
+    and thoughts you can use today.
+intro:
+  heading: Latest Posts
+  text: Fresh ideas on ChatGPT, AI tools, and making tech simple.
+products:
+  - image: https://selar.com/244i475056
+    text: Anthony -ai-Omni-pro
+values:
+  heading: "Fast Anthony ai assistant "
+  text: "Made for everyone "
 ---
 ## Welcome to my blog
 
