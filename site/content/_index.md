@@ -10,8 +10,8 @@ intro:
   heading: Latest Posts
   text: Fresh ideas on ChatGPT, AI tools, and making tech simple.
 products:
-  - image: https://selar.com/244i475056
-    text: Anthony -ai-Omni-pro
+  - image: img/img_20260421_114627_795.jpg
+    text: "Anthony -ai-Omni-pro "
 values:
   heading: "Fast Anthony ai assistant "
   text: "Made for everyone "
